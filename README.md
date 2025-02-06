@@ -20,5 +20,14 @@ https://github.com/cyber-hydrology/FLO-SR-flood-super-resolution-model.git
 
 ### Setting up the Python environment
 This model must be performed in TensorFlow version 2.15.0 and simply run ipynb code in juputer notebook.
+Get the required library by running the first code fragment in ipynb code.
 
-if you have a CUDA-capable NVIDIA GPU. This is recommended if you want to train/evaluate the LSTM on your machine, but not strictly necessary.
+If you have a CUDA-capable NVIDIA GPU. This is recommended if you want to train/evaluate the FLO-SR on your machine, but not strictly necessary.
+
+## Data
+
+### Required Downloads
+First, you need the flood data set to run the model. This data set can be downloaded at the data folder.
+And set a location in ipynb file.
+
+
