@@ -1,8 +1,8 @@
 # Deep learning-based urban flood super-resolution model
 
-This repository accompanies the paper [**FLO-SR: Deep learning-based urban flood super-resolution model**] (in review) (Hyeonjin Choi, Hyuna Woo, Minyoung Kim, Hyungon Ryu, Jun-Hak Lee, Seungsoo Lee, and Seong Jin Noh)
+This repository accompanies the paper [**FLO-SR: Deep learning-based urban flood super-resolution model**] (in review) (Hyeonjin Choi, Hyuna Woo, Minyoung Kim, Hyungon Ryu, Jun-Hak Lee, Seungsoo Lee, and Seong Jin Noh).
 
-We are **Hydrology and Water Resources Lab (Noh Lab, https://cyber-hydrology.github.io/)** (Hyeonjin Choi, Hyuna Woo, Minyoung Kim, and Seong Jin Noh) of Kumoh National Institute of Technology
+We are the Hydrology and Water Resources Lab (Noh Lab, https://cyber-hydrology.github.io/) (Hyeonjin Choi, Hyuna Woo, Minyoung Kim, and Seong Jin Noh) at Kumoh National Institute of Technology.
 
 <img src="images/flo-sr-architecture.jpg" alt="FLO-SR Framework" width="400">
 
