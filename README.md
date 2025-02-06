@@ -26,10 +26,21 @@ Get the required library by running the first code fragment in ipynb code.
 
 If you have a CUDA-capable NVIDIA GPU. This is recommended if you want to train/evaluate the FLO-SR on your machine, but not strictly necessary.
 
-## Data
+## Data and Code
 
 ### Required Downloads
-First, you need the flood data set to run the model. This dataset can be downloaded at the data folder
-and set a location in ipynb file.
+First, you need the flood data set to run the model. This dataset can be downloaded at the data folder.
+
+### Running notebooks
+Set a location in ipynb file.
+In your terminal, go to the project folder and start a jupyter notebook server by running
+
+```
+jupyter notebook
+```
+
+
+
+
 
 
