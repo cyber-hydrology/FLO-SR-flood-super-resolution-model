@@ -2,6 +2,8 @@
 
 This repository accompanies the paper [**FLO-SR: Deep learning-based urban flood super-resolution model**] (in review) (Hyeonjin Choi, Hyuna Woo, Minyoung Kim, Hyungon Ryu, Jun-Hak Lee, Seungsoo Lee, and Seong Jin Noh)
 
+![FLO-SR 구조도](images/flo-sr-architecture.png)
+
 We, **Hydrology and Water Resources Lab (Noh Lab, https://cyber-hydrology.github.io/)** (Hyeonjin Choi, Hyuna Woo, Minyoung Kim, and Seong Jin Noh) of Kumoh National Institute of Technology
 
 It is built upon the code from https://github.com/LimBee/NTIRE2017.
@@ -27,7 +29,7 @@ If you have a CUDA-capable NVIDIA GPU. This is recommended if you want to train/
 ## Data
 
 ### Required Downloads
-First, you need the flood data set to run the model. This data set can be downloaded at the data folder.
-And set a location in ipynb file.
+First, you need the flood data set to run the model. This dataset can be downloaded at the data folder
+and set a location in ipynb file.
 
 
