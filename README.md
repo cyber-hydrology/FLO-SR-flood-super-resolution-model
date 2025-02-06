@@ -1,4 +1,4 @@
-# FLO-SR: Deep learning-based urban flood super-resolution model
+# Deep learning-based urban flood super-resolution model
 
 This repository accompanies the paper [**FLO-SR: Deep learning-based urban flood super-resolution model**] (in review) (Hyeonjin Choi, Hyuna Woo, Minyoung Kim, Hyungon Ryu, Jun-Hak Lee, Seungsoo Lee, and Seong Jin Noh)
 
