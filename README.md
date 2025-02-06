@@ -2,7 +2,7 @@
 
 This repository accompanies the paper [**FLO-SR: Deep learning-based urban flood super-resolution model**] (in review) (Hyeonjin Choi, Hyuna Woo, Minyoung Kim, Hyungon Ryu, Jun-Hak Lee, Seungsoo Lee, and Seong Jin Noh)
 
-We, **Hydrology and Water Resources Lab (Noh Lab)** (Hyeonjin Choi, Hyuna Woo, Minyoung Kim, and Seong Jin Noh) of [**Noh Lab, Kumoh National Institute of Technology**](https://cv.snu.ac.kr/)) 
+We, **Hydrology and Water Resources Lab (Noh Lab)** (Hyeonjin Choi, Hyuna Woo, Minyoung Kim, and Seong Jin Noh) of [**Noh Lab, Kumoh National Institute of Technology**]([https://cv.snu.ac.kr/](https://cyber-hydrology.github.io/))) 
 
 It is built upon the code from https://github.com/LimBee/NTIRE2017.
 
@@ -19,5 +19,5 @@ https://github.com/cyber-hydrology/FLO-SR-flood-super-resolution-model.git
 ```
 
 ### Setting up the Python environment
-This model must be performed in TensorFlow version 2.15.0.
+This model must be performed in TensorFlow version 2.15.0 and 
 if you have a CUDA-capable NVIDIA GPU. This is recommended if you want to train/evaluate the LSTM on your machine, but not strictly necessary.
